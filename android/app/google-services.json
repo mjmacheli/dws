@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "845423527552",
+    "firebase_url": "https://uberlikeapp-4d0c3.firebaseio.com",
+    "project_id": "uberlikeapp-4d0c3",
+    "storage_bucket": "uberlikeapp-4d0c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845423527552:android:0086dcc32dbbba4d314865",
+        "android_client_info": {
+          "package_name": "com.bus.bus.studentApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845423527552-d7426j0lra1r79rur3rre5hbeb2ebqag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bus.bus.studentApp",
+            "certificate_hash": "10ed9f2703706b744533b8633526aa5a5647da9d"
+          }
+        },
+        {
+          "client_id": "845423527552-0r8kufnorpm48lon2pe5gutjs21eavev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVcYkxiLnEMSyKvzaIyzZwpx0mJrqpks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845423527552-0r8kufnorpm48lon2pe5gutjs21eavev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845423527552-r4vlumud2rm2u863jko50lhrpfgi66lv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.dsw"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845423527552:android:e4d9146a1987c3b5314865",
+        "android_client_info": {
+          "package_name": "com.dswproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845423527552-0r8kufnorpm48lon2pe5gutjs21eavev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVcYkxiLnEMSyKvzaIyzZwpx0mJrqpks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845423527552-0r8kufnorpm48lon2pe5gutjs21eavev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845423527552-r4vlumud2rm2u863jko50lhrpfgi66lv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.dsw"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845423527552:android:85b2b91832cba9cb314865",
+        "android_client_info": {
+          "package_name": "com.mega.bus.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845423527552-koppe3bq6ssnc3mpo2tljus87sokit6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mega.bus.driverapp",
+            "certificate_hash": "10ed9f2703706b744533b8633526aa5a5647da9d"
+          }
+        },
+        {
+          "client_id": "845423527552-0r8kufnorpm48lon2pe5gutjs21eavev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVcYkxiLnEMSyKvzaIyzZwpx0mJrqpks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845423527552-0r8kufnorpm48lon2pe5gutjs21eavev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845423527552-r4vlumud2rm2u863jko50lhrpfgi66lv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.dsw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
